@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@900&display=swap');
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
