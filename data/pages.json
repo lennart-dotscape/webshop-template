@@ -1,50 +1,73 @@
 [
-    {
-      "id": 0,
-      "slug": "home",
-      "title": "Home",
-      "is_menu_item": false,
-      "sections": [
-        {
-          "id": 0,
-          "slug": "Hero",
-          "title": "Feel your all",
-          "description": "This is a celebration of everything that moves you. For the power of choosing and the freedom of being.",
-          "size": "large",
-          "image": "https://images.pexels.com/photos/13524224/pexels-photo-13524224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-          "id": 1,
-          "slug": "Faq",
-          "title": "Welkom",
-          "description": "Leuk hoor"
-        },
-        {
-          "id": 2,
-          "slug": "CardOverview",
-          "type": "featured",
-          "category": "shoes",
-          "title": "Producten",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "slug": "about",
-      "title": "About",
-      "is_menu_item": true
-    },
-    {
-      "id": 2,
-      "slug": "faq",
-      "title": "FAQ",
-      "is_menu_item": true
-    },
-    {
-      "id": 3,
-      "slug": "contact",
-      "title": "Contact",
-      "is_menu_item": true
-    }
-  ]
+  {
+    "id": 0,
+    "slug": "home",
+    "title": "Home",
+    "is_menu_item": false,
+    "sections": [
+      {
+        "id": 0,
+        "slug": "Hero",
+        "title": "Feel your all",
+        "description": "This is a celebration of everything that moves you. For the power of choosing and the freedom of being. Here’s to the big, beautiful mess of movement and mindfulness that simply makes you feel good.",
+        "size": "large",
+        "image": "https://images.pexels.com/photos/4816757/pexels-photo-4816757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "id": 1,
+        "slug": "CardOverview",
+        "title": "Producten",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "slug": "Image",
+        "with_text": true,
+        "text_align_left": true,
+        "title": "New Year, New Moves",
+        "description": "This is a celebration of everything that moves you. For the power of choosing and the freedom of being. Here’s to the big, beautiful mess of movement and mindfulness that simply makes you feel good.",
+        "image": "https://static.nike.com/a/images/f_auto/dpr_3.0,cs_srgb/w_234,c_limit/fb15e41f-cbc4-4522-a09e-7ff64f611d98/zo-kies-je-het-beste-nike-regenjack-voor-hardlopen.jpg",
+        "button_text": "Check out",
+        "button_url": "/"
+      },
+      {
+        "id": 3,
+        "slug": "Image",
+        "with_text": true,
+        "text_align_left": false,
+        "title": "Nike Membership",
+        "description": "This is a celebration of everything that moves you. For the power of choosing and the freedom of being. Here’s to the big, beautiful mess of movement and mindfulness that simply makes you feel good.",
+        "image": "https://images.pexels.com/photos/4816757/pexels-photo-4816757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "button_text": "Learn more",
+        "button_url": "/"
+      },
+      {
+        "id": 4,
+        "slug": "Image",
+        "with_text": false,
+        "text_align": "",
+        "title": "",
+        "description": "",
+        "image": "https://images.pexels.com/photos/4816757/pexels-photo-4816757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "slug": "about",
+    "title": "About",
+    "is_menu_item": true
+  },
+  {
+    "id": 2,
+    "slug": "faq",
+    "title": "FAQ",
+    "is_menu_item": true
+  },
+  {
+    "id": 3,
+    "slug": "contact",
+    "title": "Contact",
+    "is_menu_item": true
+  }
+]

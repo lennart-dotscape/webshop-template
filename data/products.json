@@ -1,0 +1,44 @@
+[
+    {
+      "id": 0,
+      "title": "Nike Air Max 90 white",
+      "price": "149.99",
+      "category": "Shoes",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bhwrvokud9flh34cchb8/air-max-90-shoes-dlXJdc.png"
+    },
+    {
+      "id": 1,
+      "title": "Nike Air Max 90 black",
+      "price": "149.99",
+      "category": "Shoes",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/w2ldynwtyuspv6r5rffj/air-max-90-shoes-dlXJdc.png"
+    },
+    {
+      "id": 2,
+      "title": "Nike Air Max 90 by Lincoln",
+      "price": "169.99",
+      "category": "Shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e51458c6-c11d-49e0-9633-4df465370930/custom-nike-air-max-90-by-you.png"
+    },
+    {
+      "id": 3,
+      "title": "Nike Heritage green",
+      "price": "19.99",
+      "category": "Headwear",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15321d8e-ccc7-412e-b5f7-c3f3a1cf4e9a/sportswear-heritage86-cap-bcTRld.png"
+    },
+    {
+      "id": 4,
+      "title": "Nike Heritage 86 futura washed",
+      "price": "22.99",
+      "category": "Headwear",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7903ee93-8075-455b-b5e4-6f881f9ecd16/sportswear-heritage86-futura-washed-hat-VSW4x0.png"
+    },
+    {
+      "id": 5,
+      "title": "Nike Heritage 86 black",
+      "price": "19.99",
+      "category": "Headwear",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5859d0ec-4caf-469e-af82-9434768330dd/sportswear-heritage-86-adjustable-cap-cX9wzp.png"
+    }
+  ]
