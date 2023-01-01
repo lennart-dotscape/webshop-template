@@ -27,7 +27,7 @@
 }
 
 .padding-vertical {
-    @apply py-24 md:py-32 lg:py-40;
+    @apply my-32 md:my-40 lg:my-48;
 }
 
 .hero {

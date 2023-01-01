@@ -1,8 +1,4 @@
 <template>
-    <!-- <SectionHero />
-    <SectionCardOverview />
-    <SectionFaq />
-    <SectionImage /> -->
     <component v-for="section in sections" :key="section.id" :is="getSection(section.slug)" :data="section"/>
 </template>
 
