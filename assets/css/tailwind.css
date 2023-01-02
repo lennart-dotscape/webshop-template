@@ -15,19 +15,23 @@
 }
 
 .button {
-    @apply py-2 px-4 rounded-3xl text-sm transition duration-200;
+    @apply py-2 px-4 rounded-3xl text-sm font-bold transition duration-200;
 }
 
 .button-primary {
-    @apply button bg-black text-white hover:bg-gray-600;
+    @apply button bg-black text-white hover:bg-gray-800;
 }
 
 .button-secondary{
-    @apply button bg-white text-black hover:bg-gray-600;
+    @apply button bg-white text-black hover:bg-gray-300;
 }
 
 .padding-vertical {
     @apply my-32 md:my-40 lg:my-48;
+}
+
+a.router-link-active {
+    @apply border-b-2 border-black font-bold;
 }
 
 .hero {
